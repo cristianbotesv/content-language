@@ -1,0 +1,19 @@
+{
+  "name": "content-language",
+  "version": "1.0.0",
+  "description": "Just get those damn accept-language content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cristianbotesv/content-language.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianbotesv/content-language/issues"
+  },
+  "homepage": "https://github.com/cristianbotesv/content-language"
+}
